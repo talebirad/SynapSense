@@ -1,1 +1,1 @@
-# SynapSense
+# SynapSense.ai
